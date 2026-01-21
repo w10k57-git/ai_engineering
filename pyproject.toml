@@ -12,6 +12,7 @@ dependencies = [
     "ipykernel>=6.30.1",
     "ipywidgets>=8.1.8",
     "matplotlib>=3.10.6",
+    "mcp>=1.25.0",
     "numpy>=2.3.3",
     "openai>=2.0.0",
     "pandas>=2.3.3",
